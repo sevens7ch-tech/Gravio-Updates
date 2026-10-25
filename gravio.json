@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.43",
-  "build": 70,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.43-build70/Gravio-1.1.43-build70.apk",
-  "notes": "Dispo: Kopfleiste wie in der App; Gravio Dispo im Blau des Briefkopfs",
-  "date": "2026-10-25T20:52:04Z"
+  "build": 71,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.43-build71/Gravio-1.1.43-build71.apk",
+  "notes": "Gravio Dispo: Firmenblau auch im Dunkelmodus als Hintergrund",
+  "date": "2026-10-25T20:54:49Z"
 }
