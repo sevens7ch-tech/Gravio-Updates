@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.44",
-  "build": 77,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build77/Gravio-1.1.44-build77.apk",
-  "notes": "Gravio Dispo: Löwen-Embleme halb so groß, verstreut auf dem Hintergrund",
-  "date": "2026-10-25T21:41:56Z"
+  "build": 78,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build78/Gravio-1.1.44-build78.apk",
+  "notes": "Gravio Dispo: Embleme gleich viele links und rechts der Abschnitte, versetzt",
+  "date": "2026-10-25T21:44:00Z"
 }
