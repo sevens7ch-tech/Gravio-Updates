@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.32",
-  "build": 38,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.32-build38/GravioPublic-1.0.32-build38.apk",
-  "notes": "Kebab-Menü und Kopfzeile vorne, Schatten, Farben je Day/Dark (1.0.32)",
-  "date": "2026-10-25T21:10:37Z"
+  "version": "1.0.33",
+  "build": 40,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.33-build40/GravioPublic-1.0.33-build40.apk",
+  "notes": "Hörer-Knopf im Feld „Ansprechpartner vor Ort“ öffnet die Telefon-App mit der Nummer (auch während der Eingabe); Google-Maps-Knopf deutlicher (1.0.33)",
+  "date": "2026-10-25T22:33:53Z"
 }
