@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.43",
-  "build": 71,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.43-build71/Gravio-1.1.43-build71.apk",
-  "notes": "Gravio Dispo: Firmenblau auch im Dunkelmodus als Hintergrund",
-  "date": "2026-10-25T20:54:49Z"
+  "version": "1.1.44",
+  "build": 72,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build72/Gravio-1.1.44-build72.apk",
+  "notes": "Kebab-Menü und Kopfzeile vorne, Schatten, Farben je Day/Dark (1.1.44)",
+  "date": "2026-10-25T21:10:22Z"
 }
