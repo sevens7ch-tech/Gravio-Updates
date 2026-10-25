@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.44",
-  "build": 78,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build78/Gravio-1.1.44-build78.apk",
-  "notes": "Gravio Dispo: Embleme gleich viele links und rechts der Abschnitte, versetzt",
-  "date": "2026-10-25T21:44:00Z"
+  "build": 79,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build79/Gravio-1.1.44-build79.apk",
+  "notes": "Gravio Dispo: Embleme halb so groß, dreimal so viele",
+  "date": "2026-10-25T21:46:16Z"
 }
