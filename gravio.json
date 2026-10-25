@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.43",
-  "build": 69,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.43-build69/Gravio-1.1.43-build69.apk",
-  "notes": "Kebab-Menü schließt zuverlässig, Auswahlmenüs in der Hauptfarbe (1.1.43)",
-  "date": "2026-10-25T20:22:13Z"
+  "build": 70,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.43-build70/Gravio-1.1.43-build70.apk",
+  "notes": "Dispo: Kopfleiste wie in der App; Gravio Dispo im Blau des Briefkopfs",
+  "date": "2026-10-25T20:52:04Z"
 }
