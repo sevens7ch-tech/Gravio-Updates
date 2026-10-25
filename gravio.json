@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.41",
-  "build": 63,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.41-build63/Gravio-1.1.41-build63.apk",
-  "notes": "App-Update über GitHub: Abfrage beim Start und in den Einstellungen, Download und Installation in der App (Repository Gravio-Updates) (1.1.41)",
-  "date": "2026-10-25T17:27:51Z"
+  "version": "1.1.42",
+  "build": 65,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build65/Gravio-1.1.42-build65.apk",
+  "notes": "WLAN: Zeiten gerundet, WLAN löschbar, Knöpfe passen, ohne Rahmen (1.1.42)",
+  "date": "2026-10-25T19:10:46Z"
 }
