@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.42",
-  "build": 67,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build67/Gravio-1.1.42-build67.apk",
-  "notes": "Dispo: SMS nur mit Nachricht an Fahrer, Fahrer-Telefonbuch (anlegen, bearbeiten, löschen)",
-  "date": "2026-10-25T20:07:38Z"
+  "build": 68,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build68/Gravio-1.1.42-build68.apk",
+  "notes": "Dispo: 7 Tage Testphase, danach Eingaben und Versand gesperrt bis zur Freischaltung",
+  "date": "2026-10-25T20:12:41Z"
 }
