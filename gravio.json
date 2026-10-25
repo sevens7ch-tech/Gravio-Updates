@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.42",
-  "build": 65,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build65/Gravio-1.1.42-build65.apk",
-  "notes": "WLAN: Zeiten gerundet, WLAN löschbar, Knöpfe passen, ohne Rahmen (1.1.42)",
-  "date": "2026-10-25T19:10:46Z"
+  "build": 66,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build66/Gravio-1.1.42-build66.apk",
+  "notes": "Dispo: Darstellung hell/dunkel, Versand per SMS",
+  "date": "2026-10-25T20:00:00Z"
 }
