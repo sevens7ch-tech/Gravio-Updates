@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.44",
-  "build": 80,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build80/Gravio-1.1.44-build80.apk",
-  "notes": "Gravio Dispo: alle Löwen-Embleme wieder entfernt",
-  "date": "2026-10-25T21:49:03Z"
+  "version": "1.1.45",
+  "build": 82,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.45-build82/Gravio-1.1.45-build82.apk",
+  "notes": "Hörer-Knopf im Feld „Ansprechpartner vor Ort“ öffnet die Telefon-App mit der Nummer (auch während der Eingabe); Google-Maps-Knopf deutlicher (1.1.45)",
+  "date": "2026-10-25T22:34:38Z"
 }
