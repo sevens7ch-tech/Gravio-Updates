@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.31",
-  "build": 37,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.31-build37/GravioPublic-1.0.31-build37.apk",
-  "notes": "Firma in die Einstellungen, Kebab-Menü schließt, Auswahlmenüs in der Hauptfarbe (1.0.31)",
-  "date": "2026-10-25T20:22:15Z"
+  "version": "1.0.32",
+  "build": 38,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.32-build38/GravioPublic-1.0.32-build38.apk",
+  "notes": "Kebab-Menü und Kopfzeile vorne, Schatten, Farben je Day/Dark (1.0.32)",
+  "date": "2026-10-25T21:10:37Z"
 }
