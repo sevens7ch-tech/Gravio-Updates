@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.30",
-  "build": 36,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.30-build36/GravioPublic-1.0.30-build36.apk",
-  "notes": "WLAN löschbar, Arbeitszeit-Rundung einstellbar, Knöpfe passen, ohne Rahmen (1.0.30)",
-  "date": "2026-10-25T19:10:19Z"
+  "version": "1.0.31",
+  "build": 37,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.31-build37/GravioPublic-1.0.31-build37.apk",
+  "notes": "Firma in die Einstellungen, Kebab-Menü schließt, Auswahlmenüs in der Hauptfarbe (1.0.31)",
+  "date": "2026-10-25T20:22:15Z"
 }
