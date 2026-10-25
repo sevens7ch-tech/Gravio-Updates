@@ -1,0 +1,8 @@
+{
+  "app": "gravio-public",
+  "version": "1.0.29",
+  "build": 33,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.29-build33/GravioPublic-1.0.29-build33.apk",
+  "notes": "App-Update über GitHub: Abfrage beim Start und in den Einstellungen, Download und Installation in der App (Repository Gravio-Updates) (1.0.29)",
+  "date": "2026-10-25T17:28:05Z"
+}
