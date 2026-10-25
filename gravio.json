@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.42",
-  "build": 66,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build66/Gravio-1.1.42-build66.apk",
-  "notes": "Dispo: Darstellung hell/dunkel, Versand per SMS",
-  "date": "2026-10-25T20:00:00Z"
+  "build": 67,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.42-build67/Gravio-1.1.42-build67.apk",
+  "notes": "Dispo: SMS nur mit Nachricht an Fahrer, Fahrer-Telefonbuch (anlegen, bearbeiten, löschen)",
+  "date": "2026-10-25T20:07:38Z"
 }
