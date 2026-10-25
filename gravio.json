@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.44",
-  "build": 79,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build79/Gravio-1.1.44-build79.apk",
-  "notes": "Gravio Dispo: Embleme halb so groß, dreimal so viele",
-  "date": "2026-10-25T21:46:16Z"
+  "build": 80,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.44-build80/Gravio-1.1.44-build80.apk",
+  "notes": "Gravio Dispo: alle Löwen-Embleme wieder entfernt",
+  "date": "2026-10-25T21:49:03Z"
 }
