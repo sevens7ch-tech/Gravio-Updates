@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.44",
-  "build": 59,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.44-build59/GravioPublic-1.0.44-build59.apk",
-  "notes": "Neuer Name: GravioLOG Public (Anzeige, Logo, App-Name); technische Kennungen bleiben",
-  "date": "2026-10-26T20:40:15Z"
+  "build": 60,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.44-build60/GravioPublic-1.0.44-build60.apk",
+  "notes": "App-Symbol und Startbild: GravioLOG",
+  "date": "2026-10-26T21:02:48Z"
 }
