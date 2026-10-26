@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.44",
-  "build": 57,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.44-build57/GravioPublic-1.0.44-build57.apk",
-  "notes": "Fahrer koppeln (Mit Dispo verbinden) entfernt (1.0.44)",
-  "date": "2026-10-26T20:11:13Z"
+  "build": 58,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.44-build58/GravioPublic-1.0.44-build58.apk",
+  "notes": "README: Aufträge per Link, keine Kopplung",
+  "date": "2026-10-26T20:20:49Z"
 }
