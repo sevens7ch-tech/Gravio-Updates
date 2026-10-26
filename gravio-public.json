@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.41",
-  "build": 54,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build54/GravioPublic-1.0.41-build54.apk",
-  "notes": "Koppeln per Kopplungs-Link: Link öffnet Gravio Public Dispo und koppelt automatisch",
-  "date": "2026-10-26T18:27:25Z"
+  "version": "1.0.42",
+  "build": 55,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.42-build55/GravioPublic-1.0.42-build55.apk",
+  "notes": "Arbeitsbühne und Fertiger mit eigener Auswahl, bis zu 3 weitere Maschinentypen (PDF Zeile 2–4)",
+  "date": "2026-10-26T19:21:32Z"
 }
