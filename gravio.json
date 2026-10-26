@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.50",
-  "build": 89,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.50-build89/Gravio-1.1.50-build89.apk",
-  "notes": "Maschinentyp / Teil, Maps-Knopf höher, Start ohne weißen Blitz",
-  "date": "2026-10-26T10:58:03Z"
+  "version": "1.1.51",
+  "build": 90,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.51-build90/Gravio-1.1.51-build90.apk",
+  "notes": "Datum/Zeit oben ohne Mikrofon, Kalender in einer Linie mit den Mikrofonen",
+  "date": "2026-10-26T11:33:05Z"
 }
