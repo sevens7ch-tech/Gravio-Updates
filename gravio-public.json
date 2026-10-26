@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.34",
-  "build": 41,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.34-build41/GravioPublic-1.0.34-build41.apk",
-  "notes": "Teil-Auswahl, Pflichtfelder atmen, ein Abschnitt offen, Fertig, Vorschau-Zoom, Maps-Nadel u. a. (1.0.34)",
-  "date": "2026-10-26T04:47:19Z"
+  "version": "1.0.35",
+  "build": 42,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.35-build42/GravioPublic-1.0.35-build42.apk",
+  "notes": "Teil-Feld, Checkliste einzeilig, Sprach-Adresse, Maps-Knopf",
+  "date": "2026-10-26T05:09:17Z"
 }
