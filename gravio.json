@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.52",
-  "build": 92,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.52-build92/Gravio-1.1.52-build92.apk",
-  "notes": "Kranarbeiten-Frage, 45 kVA, Tastatur verdeckt keine Felder mehr",
-  "date": "2026-10-26T13:56:37Z"
+  "version": "1.1.53",
+  "build": 93,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.53-build93/Gravio-1.1.53-build93.apk",
+  "notes": "Kran-Kontrollfrage gekürzt: nur „Wurden Kranarbeiten durchgeführt?“ (Ja/Nein), nur wenn das Häkchen fehlt",
+  "date": "2026-10-26T15:16:02Z"
 }
