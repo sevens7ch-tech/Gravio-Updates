@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.45",
-  "build": 82,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.45-build82/Gravio-1.1.45-build82.apk",
-  "notes": "Hörer-Knopf im Feld „Ansprechpartner vor Ort“ öffnet die Telefon-App mit der Nummer (auch während der Eingabe); Google-Maps-Knopf deutlicher (1.1.45)",
-  "date": "2026-10-25T22:34:38Z"
+  "version": "1.1.46",
+  "build": 83,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.46-build83/Gravio-1.1.46-build83.apk",
+  "notes": "Teil-Auswahl, Pflichtfelder atmen, ein Abschnitt offen, Fertig, Vorschau-Zoom, Maps-Nadel u. a. (1.1.46)",
+  "date": "2026-10-26T04:47:47Z"
 }
