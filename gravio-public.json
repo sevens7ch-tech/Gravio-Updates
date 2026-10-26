@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.41",
-  "build": 52,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build52/GravioPublic-1.0.41-build52.apk",
-  "notes": "Jahreslizenz: Codes mit Ablaufdatum (GPC2-…), Erinnerung 30 Tage vorher, Verlängerung; alte Codes bleiben dauerhaft",
-  "date": "2026-10-26T17:01:39Z"
+  "build": 53,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build53/GravioPublic-1.0.41-build53.apk",
+  "notes": "Mit Dispo verbinden: Kopplungscode für Gravio Public Dispo (GPK-…), in allen Sprachen",
+  "date": "2026-10-26T17:56:45Z"
 }
