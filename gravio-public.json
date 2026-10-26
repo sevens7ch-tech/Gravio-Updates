@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.41",
-  "build": 53,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build53/GravioPublic-1.0.41-build53.apk",
-  "notes": "Mit Dispo verbinden: Kopplungscode für Gravio Public Dispo (GPK-…), in allen Sprachen",
-  "date": "2026-10-26T17:56:45Z"
+  "build": 54,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build54/GravioPublic-1.0.41-build54.apk",
+  "notes": "Koppeln per Kopplungs-Link: Link öffnet Gravio Public Dispo und koppelt automatisch",
+  "date": "2026-10-26T18:27:25Z"
 }
