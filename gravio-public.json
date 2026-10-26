@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.42",
-  "build": 55,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.42-build55/GravioPublic-1.0.42-build55.apk",
-  "notes": "Arbeitsbühne und Fertiger mit eigener Auswahl, bis zu 3 weitere Maschinentypen (PDF Zeile 2–4)",
-  "date": "2026-10-26T19:21:32Z"
+  "version": "1.0.43",
+  "build": 56,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.43-build56/GravioPublic-1.0.43-build56.apk",
+  "notes": "Gravio Public: Maschinentypen wieder frei konfigurierbar (keine feste Unterauswahl Arbeitsbühne/Fertiger)",
+  "date": "2026-10-26T19:44:12Z"
 }
