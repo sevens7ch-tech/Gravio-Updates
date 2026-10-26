@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.37",
-  "build": 45,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.37-build45/GravioPublic-1.0.37-build45.apk",
-  "notes": "Spracheingabe überall, E-Mail direkt ins E-Mail-Programm",
-  "date": "2026-10-26T09:25:56Z"
+  "version": "1.0.38",
+  "build": 47,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.38-build47/GravioPublic-1.0.38-build47.apk",
+  "notes": "Maschinentyp / Teil, Maps-Knopf höher, Start ohne weißen Blitz",
+  "date": "2026-10-26T10:58:55Z"
 }
