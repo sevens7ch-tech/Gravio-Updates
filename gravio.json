@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.47",
-  "build": 84,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.47-build84/Gravio-1.1.47-build84.apk",
-  "notes": "Teil-Feld, Checkliste einzeilig, Sprach-Adresse, Maps-Knopf",
-  "date": "2026-10-26T05:09:14Z"
+  "version": "1.1.48",
+  "build": 85,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.48-build85/Gravio-1.1.48-build85.apk",
+  "notes": "Neuer Abschnitt Auftragsart: Anlieferung/Abholung (Kästchen im PDF), Fehlfahrt rot und groß in der Bemerkung",
+  "date": "2026-10-26T07:28:39Z"
 }
