@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.53",
-  "build": 95,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.53-build95/Gravio-1.1.53-build95.apk",
-  "notes": "Dispo: Kopplungs-Link (#pair=) beim Öffnen automatisch übernehmen",
-  "date": "2026-10-26T18:27:06Z"
+  "version": "1.1.54",
+  "build": 96,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.54-build96/Gravio-1.1.54-build96.apk",
+  "notes": "Arbeitsbühne und Fertiger mit eigener Auswahl, bis zu 3 weitere Maschinentypen (PDF Zeile 2–4)",
+  "date": "2026-10-26T19:21:54Z"
 }
