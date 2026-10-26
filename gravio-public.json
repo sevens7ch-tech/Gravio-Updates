@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.35",
-  "build": 42,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.35-build42/GravioPublic-1.0.35-build42.apk",
-  "notes": "Teil-Feld, Checkliste einzeilig, Sprach-Adresse, Maps-Knopf",
-  "date": "2026-10-26T05:09:17Z"
+  "version": "1.0.36",
+  "build": 43,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.36-build43/GravioPublic-1.0.36-build43.apk",
+  "notes": "Auftragsart (Anlieferung/Abholung) und Fehlfahrt",
+  "date": "2026-10-26T07:28:38Z"
 }
