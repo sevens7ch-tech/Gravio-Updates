@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.38",
-  "build": 47,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.38-build47/GravioPublic-1.0.38-build47.apk",
-  "notes": "Maschinentyp / Teil, Maps-Knopf höher, Start ohne weißen Blitz",
-  "date": "2026-10-26T10:58:55Z"
+  "version": "1.0.39",
+  "build": 48,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.39-build48/GravioPublic-1.0.39-build48.apk",
+  "notes": "Datum/Zeit oben ohne Mikrofon, Kalender in einer Linie mit den Mikrofonen",
+  "date": "2026-10-26T11:33:01Z"
 }
