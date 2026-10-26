@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.41",
-  "build": 51,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build51/GravioPublic-1.0.41-build51.apk",
-  "notes": "Kran-Kontrollfrage gekürzt: nur „Wurden Kranarbeiten durchgeführt?“ (Ja/Nein), nur wenn das Häkchen fehlt",
-  "date": "2026-10-26T15:15:11Z"
+  "build": 52,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.41-build52/GravioPublic-1.0.41-build52.apk",
+  "notes": "Jahreslizenz: Codes mit Ablaufdatum (GPC2-…), Erinnerung 30 Tage vorher, Verlängerung; alte Codes bleiben dauerhaft",
+  "date": "2026-10-26T17:01:39Z"
 }
