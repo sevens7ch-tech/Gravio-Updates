@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.54",
-  "build": 98,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.54-build98/Gravio-1.1.54-build98.apk",
-  "notes": "Gravio Public Dispo: Auftrag wieder per verschlüsseltem Link (Formular füllt sich automatisch), Kopplung bleibt entfernt",
-  "date": "2026-10-26T20:20:45Z"
+  "build": 99,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.54-build99/Gravio-1.1.54-build99.apk",
+  "notes": "Gravio Public Dispo und Link-Seite: Anzeigename GravioLOG Public, neues Logo",
+  "date": "2026-10-26T20:41:15Z"
 }
