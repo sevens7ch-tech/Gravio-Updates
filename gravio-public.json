@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.44",
-  "build": 60,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.44-build60/GravioPublic-1.0.44-build60.apk",
-  "notes": "App-Symbol und Startbild: GravioLOG",
-  "date": "2026-10-26T21:02:48Z"
+  "version": "1.0.45",
+  "build": 62,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.45-build62/GravioPublic-1.0.45-build62.apk",
+  "notes": "Freischalt-Link, Tastatur zurück, Fotos-Abschnitt, Anhänger/Auflieger, Teil = Schwertransport u. a. (Tageseinsatz nur in Gravio)",
+  "date": "2026-10-31T20:48:48Z"
 }
