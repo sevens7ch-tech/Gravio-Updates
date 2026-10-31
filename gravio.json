@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.55",
-  "build": 101,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.55-build101/Gravio-1.1.55-build101.apk",
-  "notes": "GravioLOG (Name, Logo, Symbol, Startanimation), Freischalt-Link, Tastatur zurück, Tageseinsatz, Fotos-Abschnitt, Anhänger/Auflieger u. a.",
-  "date": "2026-10-31T20:48:21Z"
+  "version": "1.1.56",
+  "build": 103,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.56-build103/Gravio-1.1.56-build103.apk",
+  "notes": "Unterschrift, PDF-Feinschliff, Pflichtfelder, Adresse, WLAN-Erkennung",
+  "date": "2026-10-31T21:52:41Z"
 }
