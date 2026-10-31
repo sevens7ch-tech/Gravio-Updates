@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.46",
-  "build": 64,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.46-build64/GravioPublic-1.0.46-build64.apk",
-  "notes": "Unterschrift, PDF-Feinschliff, Pflichtfelder, Adresse, WLAN-Erkennung",
-  "date": "2026-10-31T21:53:10Z"
+  "build": 65,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.46-build65/GravioPublic-1.0.46-build65.apk",
+  "notes": "Auftrag aus der Dispo: Feld Teil übernehmen",
+  "date": "2026-10-31T22:07:58Z"
 }
