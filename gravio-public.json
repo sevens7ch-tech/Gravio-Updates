@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.45",
-  "build": 62,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.45-build62/GravioPublic-1.0.45-build62.apk",
-  "notes": "Freischalt-Link, Tastatur zurück, Fotos-Abschnitt, Anhänger/Auflieger, Teil = Schwertransport u. a. (Tageseinsatz nur in Gravio)",
-  "date": "2026-10-31T20:48:48Z"
+  "version": "1.0.46",
+  "build": 64,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.46-build64/GravioPublic-1.0.46-build64.apk",
+  "notes": "Unterschrift, PDF-Feinschliff, Pflichtfelder, Adresse, WLAN-Erkennung",
+  "date": "2026-10-31T21:53:10Z"
 }
