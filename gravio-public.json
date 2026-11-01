@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.46",
-  "build": 65,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.46-build65/GravioPublic-1.0.46-build65.apk",
-  "notes": "Auftrag aus der Dispo: Feld Teil übernehmen",
-  "date": "2026-10-31T22:07:58Z"
+  "version": "1.0.47",
+  "build": 66,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.47-build66/GravioPublic-1.0.47-build66.apk",
+  "notes": "Unterschrift genau unter dem Finger, Kopfleisten-Knöpfe eingelassen, Schatten für Checkliste und Unterschrift, flüssigeres Auf-/Zuklappen, Updates im Punkt Über",
+  "date": "2026-11-01T01:33:21Z"
 }
