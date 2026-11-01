@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.52",
-  "build": 76,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.52-build76/GravioPublic-1.0.52-build76.apk",
-  "notes": "Abgleich mit Gravio: Anfrage-Link im Umwandlungsskript an neue Gravio-Zeilen angepasst",
-  "date": "2026-11-01T08:08:19Z"
+  "version": "1.0.53",
+  "build": 77,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.53-build77/GravioPublic-1.0.53-build77.apk",
+  "notes": "Senden-Knopf: Teilen-Dialog oder voreingestellte Messenger/E-Mail-Apps (Einstellungen → Versenden); Farben als eigener Menüpunkt mit Farbstärke; Startbildschirm auf schwachen Geräten",
+  "date": "2026-11-01T08:24:57Z"
 }
