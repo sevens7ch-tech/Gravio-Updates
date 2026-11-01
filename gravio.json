@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.64",
-  "build": 130,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.64-build130/Gravio-1.1.64-build130.apk",
-  "notes": "Dispo hochladen: Prüfschritt repariert (Anführungszeichen)",
-  "date": "2026-11-01T18:03:10Z"
+  "version": "1.1.65",
+  "build": 131,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.65-build131/Gravio-1.1.65-build131.apk",
+  "notes": "Spracheingabe wählbar: Google oder Whisper",
+  "date": "2026-11-01T18:10:32Z"
 }
