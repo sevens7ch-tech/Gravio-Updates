@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.57",
-  "build": 81,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.57-build81/GravioPublic-1.0.57-build81.apk",
-  "notes": "Spracheingabe wählbar: Google oder Whisper",
-  "date": "2026-11-01T18:13:01Z"
+  "version": "1.0.58",
+  "build": 82,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.58-build82/GravioPublic-1.0.58-build82.apk",
+  "notes": "Einstellungsdatei aus WhatsApp: GravioLOG im „Öffnen mit“-Dialog anbieten (1.0.58)",
+  "date": "2026-11-01T18:26:31Z"
 }
