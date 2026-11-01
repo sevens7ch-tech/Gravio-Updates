@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.58",
-  "build": 113,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.58-build113/Gravio-1.1.58-build113.apk",
-  "notes": "Neuer Vordruck, perf-lite, Tablet-Ansicht, Startbildschirm & Fahrtenschreiber-Symbole (1.1.58)",
-  "date": "2026-11-01T05:49:20Z"
+  "version": "1.1.59",
+  "build": 114,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.59-build114/Gravio-1.1.59-build114.apk",
+  "notes": "Startbildschirm: kompaktere Sattelzugmaschine (3 Hinterachsen, 1 Vorderachse); Entladestelle mit optionalem Kunden",
+  "date": "2026-11-01T06:02:03Z"
 }
