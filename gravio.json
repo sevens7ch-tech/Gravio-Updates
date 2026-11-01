@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.63",
-  "build": 123,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build123/Gravio-1.1.63-build123.apk",
-  "notes": "Kopf-Knöpfe als Leiste wie der Fahrtenschreiber, Schatten für Titel (1.1.63)",
-  "date": "2026-11-01T11:46:58Z"
+  "build": 125,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build125/Gravio-1.1.63-build125.apk",
+  "notes": "Public Dispo hinter Lizenzprüfung auf Cloudflare (Worker + automatisches Hochladen)",
+  "date": "2026-11-01T17:02:19Z"
 }
