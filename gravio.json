@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.63",
-  "build": 125,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build125/Gravio-1.1.63-build125.apk",
-  "notes": "Public Dispo hinter Lizenzprüfung auf Cloudflare (Worker + automatisches Hochladen)",
-  "date": "2026-11-01T17:02:19Z"
+  "build": 126,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build126/Gravio-1.1.63-build126.apk",
+  "notes": "Dispo hochladen: Fehler nicht mehr verschlucken, Token und Konto prüfen",
+  "date": "2026-11-01T17:04:36Z"
 }
