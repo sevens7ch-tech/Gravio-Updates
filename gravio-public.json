@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.51",
-  "build": 72,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.51-build72/GravioPublic-1.0.51-build72.apk",
-  "notes": "Eigene Punkte im Auftrag: unter „Felder im Auftrag“ hinzufügen, als Texteingabe, Auswahlmenü oder Ankreuzfeld, ein-/ausblendbar",
-  "date": "2026-11-01T07:50:25Z"
+  "version": "1.0.52",
+  "build": 73,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.52-build73/GravioPublic-1.0.52-build73.apk",
+  "notes": "Freischaltcode-Anfrage: Link zur Code-App mit Geräte-Nummer und Fahrer (1.0.52)",
+  "date": "2026-11-01T08:04:36Z"
 }
