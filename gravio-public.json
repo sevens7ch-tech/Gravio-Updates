@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.50",
-  "build": 71,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.50-build71/GravioPublic-1.0.50-build71.apk",
-  "notes": "Spracheingabe wählbar (Google/Whisper, schneller) + Kopfleiste, Tablet-Layout, Dark-Mode-Schatten (1.0.50)",
-  "date": "2026-11-01T07:35:31Z"
+  "version": "1.0.51",
+  "build": 72,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.51-build72/GravioPublic-1.0.51-build72.apk",
+  "notes": "Eigene Punkte im Auftrag: unter „Felder im Auftrag“ hinzufügen, als Texteingabe, Auswahlmenü oder Ankreuzfeld, ein-/ausblendbar",
+  "date": "2026-11-01T07:50:25Z"
 }
