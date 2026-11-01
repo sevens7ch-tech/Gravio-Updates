@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.52",
-  "build": 73,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.52-build73/GravioPublic-1.0.52-build73.apk",
-  "notes": "Freischaltcode-Anfrage: Link zur Code-App mit Geräte-Nummer und Fahrer (1.0.52)",
-  "date": "2026-11-01T08:04:36Z"
+  "build": 76,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.52-build76/GravioPublic-1.0.52-build76.apk",
+  "notes": "Abgleich mit Gravio: Anfrage-Link im Umwandlungsskript an neue Gravio-Zeilen angepasst",
+  "date": "2026-11-01T08:08:19Z"
 }
