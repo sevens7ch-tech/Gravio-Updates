@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.48",
-  "build": 67,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.48-build67/GravioPublic-1.0.48-build67.apk",
-  "notes": "Neuer Vordruck, perf-lite, Tablet-Ansicht, eigene Abschnitte für Auswahlfelder & Startbildschirm (1.0.48)",
-  "date": "2026-11-01T05:49:48Z"
+  "version": "1.0.49",
+  "build": 68,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.49-build68/GravioPublic-1.0.49-build68.apk",
+  "notes": "Kompaktere Zugmaschine im Startbildschirm; Entladestelle mit Kunde (einstellbar, standardmäßig freiwillig)",
+  "date": "2026-11-01T06:02:00Z"
 }
