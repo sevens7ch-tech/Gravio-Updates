@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.59",
-  "build": 114,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.59-build114/Gravio-1.1.59-build114.apk",
-  "notes": "Startbildschirm: kompaktere Sattelzugmaschine (3 Hinterachsen, 1 Vorderachse); Entladestelle mit optionalem Kunden",
-  "date": "2026-11-01T06:02:03Z"
+  "version": "1.1.60",
+  "build": 116,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.60-build116/Gravio-1.1.60-build116.apk",
+  "notes": "Spracheingabe offline mit whisper.cpp statt Google (small-Modell, einmal laden)",
+  "date": "2026-11-01T06:25:31Z"
 }
