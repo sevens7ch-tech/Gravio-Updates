@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.54",
-  "build": 78,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.54-build78/GravioPublic-1.0.54-build78.apk",
-  "notes": "Einstellungen neu sortiert, Kopf-Knöpfe als Leiste, Markenname repariert (1.0.54)",
-  "date": "2026-11-01T11:46:59Z"
+  "version": "1.0.55",
+  "build": 79,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.55-build79/GravioPublic-1.0.55-build79.apk",
+  "notes": "Einstellungen von der Dispo: Einstellungsdatei per WhatsApp, Sperre „Von der Dispo verwaltet“ (1.0.55)",
+  "date": "2026-11-01T17:57:58Z"
 }
