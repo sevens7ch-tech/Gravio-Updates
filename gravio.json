@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.56",
-  "build": 104,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.56-build104/Gravio-1.1.56-build104.apk",
-  "notes": "Dispo: eigene Auswahlmenüs und Kalender im Seitenstil, Feld Teil unter Maschine; App übernimmt Teil aus dem Auftrags-Link",
-  "date": "2026-10-31T22:08:21Z"
+  "version": "1.1.57",
+  "build": 105,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.57-build105/Gravio-1.1.57-build105.apk",
+  "notes": "Unterschrift genau unter dem Finger, Kopfleisten-Knöpfe eingelassen, Schatten für Checkliste und Unterschrift, flüssigeres Auf-/Zuklappen, Updates im Punkt Über",
+  "date": "2026-11-01T01:33:24Z"
 }
