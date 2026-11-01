@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.61",
-  "build": 120,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.61-build120/Gravio-1.1.61-build120.apk",
-  "notes": "Kopfleiste mit Fahrtenschreiber, ruhigeres Auf-/Zuklappen, Tablet-Layout, Dark-Mode-Schatten, schnellere Spracheingabe (1.1.61)",
-  "date": "2026-11-01T07:34:33Z"
+  "version": "1.1.62",
+  "build": 121,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.62-build121/Gravio-1.1.62-build121.apk",
+  "notes": "Freischaltcode-Anfrage: Link zur Code-App mit Geräte-Nummer und Fahrer (1.1.62)",
+  "date": "2026-11-01T08:09:23Z"
 }
