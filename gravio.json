@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.62",
-  "build": 122,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.62-build122/Gravio-1.1.62-build122.apk",
-  "notes": "Startbildschirm auf schwachen Geräten: Zugmaschine erscheint gleichzeitig mit den Bewegungsstrichen (kurze Bewegung statt Hereinfahren)",
-  "date": "2026-11-01T08:17:07Z"
+  "version": "1.1.63",
+  "build": 124,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build124/Gravio-1.1.63-build124.apk",
+  "notes": "Gravio Public Dispo nur mit Lizenz (keine Testphase, GPC2-Jahrescodes, Anfrage-Link zur Code-App)",
+  "date": "2026-11-01T11:45:18Z"
 }
