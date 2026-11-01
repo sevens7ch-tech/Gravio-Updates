@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.47",
-  "build": 66,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.47-build66/GravioPublic-1.0.47-build66.apk",
-  "notes": "Unterschrift genau unter dem Finger, Kopfleisten-Knöpfe eingelassen, Schatten für Checkliste und Unterschrift, flüssigeres Auf-/Zuklappen, Updates im Punkt Über",
-  "date": "2026-11-01T01:33:21Z"
+  "version": "1.0.48",
+  "build": 67,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.48-build67/GravioPublic-1.0.48-build67.apk",
+  "notes": "Neuer Vordruck, perf-lite, Tablet-Ansicht, eigene Abschnitte für Auswahlfelder & Startbildschirm (1.0.48)",
+  "date": "2026-11-01T05:49:48Z"
 }
