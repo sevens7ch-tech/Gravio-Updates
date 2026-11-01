@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.49",
-  "build": 68,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.49-build68/GravioPublic-1.0.49-build68.apk",
-  "notes": "Kompaktere Zugmaschine im Startbildschirm; Entladestelle mit Kunde (einstellbar, standardmäßig freiwillig)",
-  "date": "2026-11-01T06:02:00Z"
+  "version": "1.0.50",
+  "build": 71,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.50-build71/GravioPublic-1.0.50-build71.apk",
+  "notes": "Spracheingabe wählbar (Google/Whisper, schneller) + Kopfleiste, Tablet-Layout, Dark-Mode-Schatten (1.0.50)",
+  "date": "2026-11-01T07:35:31Z"
 }
