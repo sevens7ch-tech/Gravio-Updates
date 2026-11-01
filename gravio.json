@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.63",
-  "build": 126,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build126/Gravio-1.1.63-build126.apk",
-  "notes": "Dispo hochladen: Fehler nicht mehr verschlucken, Token und Konto prüfen",
-  "date": "2026-11-01T17:04:36Z"
+  "build": 127,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build127/Gravio-1.1.63-build127.apk",
+  "notes": "Public Dispo: „App einrichten“ – Einstellungen der Fahrer-App, Einstellungsdatei per WhatsApp",
+  "date": "2026-11-01T17:57:23Z"
 }
