@@ -1,8 +1,8 @@
 {
   "app": "gravio",
   "version": "1.1.60",
-  "build": 116,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.60-build116/Gravio-1.1.60-build116.apk",
-  "notes": "Spracheingabe offline mit whisper.cpp statt Google (small-Modell, einmal laden)",
-  "date": "2026-11-01T06:25:31Z"
+  "build": 118,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.60-build118/Gravio-1.1.60-build118.apk",
+  "notes": "Dispo-Build: Programmlogik nie im Seiteninhalt, Copyright auch in der geladenen Seite",
+  "date": "2026-11-01T07:14:21Z"
 }
