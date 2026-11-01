@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.56",
-  "build": 80,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.56-build80/GravioPublic-1.0.56-build80.apk",
-  "notes": "Texte der App nicht mehr markier- oder kopierbar, nur eingetragene Daten in Eingabefeldern (1.0.56)",
-  "date": "2026-11-01T18:01:34Z"
+  "version": "1.0.57",
+  "build": 81,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.57-build81/GravioPublic-1.0.57-build81.apk",
+  "notes": "Spracheingabe wählbar: Google oder Whisper",
+  "date": "2026-11-01T18:13:01Z"
 }
