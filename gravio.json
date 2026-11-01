@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.63",
-  "build": 128,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.63-build128/Gravio-1.1.63-build128.apk",
-  "notes": "Dispo hochladen: auch /einrichten ohne Lizenz prüfen (nur Weiterleitung)",
-  "date": "2026-11-01T18:00:00Z"
+  "version": "1.1.64",
+  "build": 129,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.64-build129/Gravio-1.1.64-build129.apk",
+  "notes": "Texte der App nicht mehr markier- oder kopierbar, nur eingetragene Daten in Eingabefeldern (1.1.64)",
+  "date": "2026-11-01T18:01:30Z"
 }
