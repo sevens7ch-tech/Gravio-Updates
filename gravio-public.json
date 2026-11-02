@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.62",
-  "build": 86,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.62-build86/GravioPublic-1.0.62-build86.apk",
-  "notes": "WLAN-Arbeitszeit: Überwachung nach Update, WLAN aus (1.0.62)",
-  "date": "2026-11-02T16:29:11Z"
+  "version": "1.0.63",
+  "build": 87,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.63-build87/GravioPublic-1.0.63-build87.apk",
+  "notes": "Aufklappbereiche: kein Ruck mehr beim Zu- und Aufklappen (1.0.63)",
+  "date": "2026-11-02T16:51:26Z"
 }
