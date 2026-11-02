@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.60",
-  "build": 84,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.60-build84/GravioPublic-1.0.60-build84.apk",
-  "notes": "WLAN-Arbeitszeit: vergessene Arbeitszeit blockiert nicht mehr den Start (1.0.60)",
-  "date": "2026-11-02T08:01:10Z"
+  "version": "1.0.61",
+  "build": 85,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.61-build85/GravioPublic-1.0.61-build85.apk",
+  "notes": "Eigener Vordruck: Kunden-PDF hochladen, Felder automatisch erkennen (Formularfelder sowie Beschriftungen, Linien und Kästchen), Einrichtungs-Assistent zum Verschieben und Zuordnen, Aufträge im eigenen Vordruck",
+  "date": "2026-11-02T08:01:47Z"
 }
