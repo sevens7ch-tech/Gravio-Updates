@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.61",
-  "build": 85,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.61-build85/GravioPublic-1.0.61-build85.apk",
-  "notes": "Eigener Vordruck: Kunden-PDF hochladen, Felder automatisch erkennen (Formularfelder sowie Beschriftungen, Linien und Kästchen), Einrichtungs-Assistent zum Verschieben und Zuordnen, Aufträge im eigenen Vordruck",
-  "date": "2026-11-02T08:01:47Z"
+  "version": "1.0.62",
+  "build": 86,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.62-build86/GravioPublic-1.0.62-build86.apk",
+  "notes": "WLAN-Arbeitszeit: Überwachung nach Update, WLAN aus (1.0.62)",
+  "date": "2026-11-02T16:29:11Z"
 }
