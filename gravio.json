@@ -1,8 +1,8 @@
 {
   "app": "gravio",
-  "version": "1.1.67",
-  "build": 133,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.67-build133/Gravio-1.1.67-build133.apk",
-  "notes": "WLAN-Arbeitszeit: vergessene Arbeitszeit blockiert nicht mehr den Start (1.1.67)",
-  "date": "2026-11-02T08:00:42Z"
+  "version": "1.1.68",
+  "build": 134,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-1.1.68-build134/Gravio-1.1.68-build134.apk",
+  "notes": "WLAN-Arbeitszeit: Überwachung nach Update, WLAN aus (1.1.68)",
+  "date": "2026-11-02T16:29:04Z"
 }
