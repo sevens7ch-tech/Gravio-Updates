@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.58",
-  "build": 82,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.58-build82/GravioPublic-1.0.58-build82.apk",
-  "notes": "Einstellungsdatei aus WhatsApp: GravioLOG im „Öffnen mit“-Dialog anbieten (1.0.58)",
-  "date": "2026-11-01T18:26:31Z"
+  "version": "1.0.59",
+  "build": 83,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.59-build83/GravioPublic-1.0.59-build83.apk",
+  "notes": "Weiterer Maschinentyp: Hersteller/Modell, Seriennummer und Transportgewicht (1.0.59)",
+  "date": "2026-11-02T07:59:48Z"
 }
