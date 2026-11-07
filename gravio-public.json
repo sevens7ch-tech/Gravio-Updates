@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.67",
-  "build": 92,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.67-build92/GravioPublic-1.0.67-build92.apk",
-  "notes": "Build: APK-Artefakt optional (Speicher für Artefakte voll), 5 Tage aufbewahren",
-  "date": "2026-11-07T21:07:39Z"
+  "version": "1.0.68",
+  "build": 93,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.68-build93/GravioPublic-1.0.68-build93.apk",
+  "notes": "Einstellungen: Abschnitte aufklappbar, Kunden unter „Kunde“ bei Belade-/Entladestelle; Vordruck-Assistent zoombar, Felder „Name der Firma“ und „Kunde“ (1.0.68)",
+  "date": "2026-11-07T21:48:49Z"
 }
