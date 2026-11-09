@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.70",
-  "build": 95,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.70-build95/GravioPublic-1.0.70-build95.apk",
-  "notes": "Einstellungen: Farben als eigene Seite, Seiten kehren in die Einstellungen zurück; Vordruck-Erkennung: wiederholte Zeilen (2. Tour, weitere Geräte), Übermaße, An-/Abfahrt, Wartezeit, Mindesteinsatzzeit, Bemerkung (1.0.70)",
-  "date": "2026-11-09T03:42:18Z"
+  "version": "1.0.71",
+  "build": 105,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.71-build105/GravioPublic-1.0.71-build105.apk",
+  "notes": "Vordruck-Erkennung für eingescannte Vordrucke: Texterkennung im Browser (Dispo, Tesseract.js), Linien und Kästchen aus dem Bild, ML Kit nur noch für Scans; Assistent: Ansicht mit gedrückter linker Maustaste verschieben (1.0.71)",
+  "date": "2026-11-09T20:11:12Z"
 }
