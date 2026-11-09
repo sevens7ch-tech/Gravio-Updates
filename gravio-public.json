@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.73",
-  "build": 108,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.73-build108/GravioPublic-1.0.73-build108.apk",
-  "notes": "Vordruck-Assistent: beim Ziehen mit der Maus Windows-eigener Verschiebe-Zeiger statt „grabbing“ (verschwand in Edge unter Windows) (1.0.73)",
-  "date": "2026-11-09T20:40:05Z"
+  "version": "1.0.74",
+  "build": 109,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.74-build109/GravioPublic-1.0.74-build109.apk",
+  "notes": "Vordruck-Assistent: „+ Feld“ hängt das neue Feld an den Mauszeiger, Klick setzt es ab (Finger: Mitte des sichtbaren Ausschnitts); nur Windows-eigene Mauszeiger, keine selbst gezeichnete Hand (1.0.74)",
+  "date": "2026-11-09T20:46:05Z"
 }
