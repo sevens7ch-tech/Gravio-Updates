@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.68",
-  "build": 93,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.68-build93/GravioPublic-1.0.68-build93.apk",
-  "notes": "Einstellungen: Abschnitte aufklappbar, Kunden unter „Kunde“ bei Belade-/Entladestelle; Vordruck-Assistent zoombar, Felder „Name der Firma“ und „Kunde“ (1.0.68)",
-  "date": "2026-11-07T21:48:49Z"
+  "version": "1.0.69",
+  "build": 94,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.69-build94/GravioPublic-1.0.69-build94.apk",
+  "notes": "Kundenliste, Auftragsart-Menü, ML Kit, PDF-Baukasten & feinere Vordruck-Erkennung, WLAN-Überwachung (1.0.69)",
+  "date": "2026-11-09T02:16:24Z"
 }
