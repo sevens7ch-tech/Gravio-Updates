@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.72",
-  "build": 106,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.72-build106/GravioPublic-1.0.72-build106.apk",
-  "notes": "Vordruck-Assistent: Verschieben mit der Maus flüssig (ein Bildlauf pro Bild), Mauszeiger bleibt beim Ziehen durchgehend „greifende Hand“, kein Bild-Ziehen/Textauswahl (1.0.72)",
-  "date": "2026-11-09T20:22:35Z"
+  "build": 107,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.72-build107/GravioPublic-1.0.72-build107.apk",
+  "notes": "Schutz gegen Kopieren: verschlüsselter Code, Echtheitsprüfung in C++, Release-Build, Starttest (1.0.72)",
+  "date": "2026-11-09T20:31:23Z"
 }
