@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.74",
-  "build": 109,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.74-build109/GravioPublic-1.0.74-build109.apk",
-  "notes": "Vordruck-Assistent: „+ Feld“ hängt das neue Feld an den Mauszeiger, Klick setzt es ab (Finger: Mitte des sichtbaren Ausschnitts); nur Windows-eigene Mauszeiger, keine selbst gezeichnete Hand (1.0.74)",
-  "date": "2026-11-09T20:46:05Z"
+  "version": "1.0.75",
+  "build": 110,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.75-build110/GravioPublic-1.0.75-build110.apk",
+  "notes": "Vordruck: App aus dem Vordruck einrichten (ergänzen / ganz danach / nichts), Originalbezeichnung als eigenes Feld, Fotos als Vordruck, Vorbelegung eigener Felder, zoombare Vorschau im Baukasten; Eingabe „Ankreuzen bei“ repariert (1.0.75)",
+  "date": "2026-11-09T21:17:16Z"
 }
