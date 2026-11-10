@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.77",
-  "build": 112,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.77-build112/GravioPublic-1.0.77-build112.apk",
-  "notes": "Nur Ansicht nach Ablauf der Testphase, Logo wächst nach oben (1.0.77)",
-  "date": "2026-11-10T05:46:56Z"
+  "version": "1.0.78",
+  "build": 113,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.78-build113/GravioPublic-1.0.78-build113.apk",
+  "notes": "Foto-Erkennung verbessert, Felder nummeriert mit Liste, Farbwahl sanft (1.0.78)",
+  "date": "2026-11-10T07:13:43Z"
 }
