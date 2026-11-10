@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
   "version": "1.0.79",
-  "build": 114,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.79-build114/GravioPublic-1.0.79-build114.apk",
-  "notes": "Update-Abfrage auch beim Zurückkehren in die App, höchstens alle 30 Minuten (1.0.79)",
-  "date": "2026-11-10T07:33:02Z"
+  "build": 115,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.79-build115/GravioPublic-1.0.79-build115.apk",
+  "notes": "Feste Download-Adresse für die Webseite: Release „gravio-public-aktuell“ mit GravioLOG-Public.apk, bei jedem Build überschrieben (immer nur die neueste Version)",
+  "date": "2026-11-10T13:21:31Z"
 }
