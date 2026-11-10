@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.76",
-  "build": 111,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.76-build111/GravioPublic-1.0.76-build111.apk",
-  "notes": "Vordruck: Feld bleibt beim Antippen, Touren zuordnen, Übernahme mit genauem Titel, Positionsauswahl im App-Design (1.0.76)",
-  "date": "2026-11-10T04:33:04Z"
+  "version": "1.0.77",
+  "build": 112,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.77-build112/GravioPublic-1.0.77-build112.apk",
+  "notes": "Nur Ansicht nach Ablauf der Testphase, Logo wächst nach oben (1.0.77)",
+  "date": "2026-11-10T05:46:56Z"
 }
