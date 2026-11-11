@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.85",
-  "build": 122,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.85-build122/GravioPublic-1.0.85-build122.apk",
-  "notes": "Neues App-Symbol (wie das Instagram-Profilbild) (1.0.85)",
-  "date": "2026-11-11T14:26:12Z"
+  "version": "1.0.86",
+  "build": 123,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.86-build123/GravioPublic-1.0.86-build123.apk",
+  "notes": "Vordruck: Höhe ändern hält die Unterkante, das Feld wächst/schrumpft oben (1.0.86)",
+  "date": "2026-11-11T16:16:30Z"
 }
