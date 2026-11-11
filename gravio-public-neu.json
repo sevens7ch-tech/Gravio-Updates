@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.81",
-  "build": 118,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.81-build118/GravioPublic-1.0.81-build118.apk",
-  "notes": "Stapler-Feld, Stapler-Tragkraft im Vordruck, Listen alphabetisch (1.0.81)",
-  "date": "2026-11-11T05:00:49Z"
+  "version": "1.0.82",
+  "build": 119,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.82-build119/GravioPublic-1.0.82-build119.apk",
+  "notes": "Vordruck: Fußleiste weg, solange ein Feld bearbeitet wird; Vorschau im PDF-Baukasten mit Zurück (1.0.82)",
+  "date": "2026-11-11T07:40:00Z"
 }
