@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.83",
-  "build": 120,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.83-build120/GravioPublic-1.0.83-build120.apk",
-  "notes": "Felder aus dem Vordruck ohne Überschrift; Kästchen erst angekreuzt in der Checkliste (1.0.83)",
-  "date": "2026-11-11T08:55:33Z"
+  "version": "1.0.84",
+  "build": 121,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.84-build121/GravioPublic-1.0.84-build121.apk",
+  "notes": "Vordruck einrichten: Knopf „Aa“ – Schriftgröße für alle Felder (1.0.84)",
+  "date": "2026-11-11T09:30:14Z"
 }
