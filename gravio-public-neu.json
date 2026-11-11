@@ -1,8 +1,8 @@
 {
   "app": "gravio-public",
-  "version": "1.0.84",
-  "build": 121,
-  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.84-build121/GravioPublic-1.0.84-build121.apk",
-  "notes": "Vordruck einrichten: Knopf „Aa“ – Schriftgröße für alle Felder (1.0.84)",
-  "date": "2026-11-11T09:30:14Z"
+  "version": "1.0.85",
+  "build": 122,
+  "apk": "https://github.com/sevens7ch-tech/Gravio-Updates/releases/download/gravio-public-1.0.85-build122/GravioPublic-1.0.85-build122.apk",
+  "notes": "Neues App-Symbol (wie das Instagram-Profilbild) (1.0.85)",
+  "date": "2026-11-11T14:26:12Z"
 }
